@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "日々、日々、思い出すと君しか頭にない状態",
+  "base_artist": "トップシークレットマン",
+  "createdAt": "2026-02-13T19:06:15.486732Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "日々、日々、思い出すと君しか頭にない状態",
+      "artist": "トップシークレットマン",
+      "has_synced": false,
+      "path": "select/pl_01_日々、日々、思い出すと君しか頭にない状態_トップシークレットマン.txt"
+    }
+  ]
+}
